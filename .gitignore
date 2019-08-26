@@ -63,3 +63,26 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+# Non-project-specific build files:
+build.xml
+local.properties
+/gradlew
+/gradlew.bat
+/gradle
+# Ant builds
+ant-build
+ant-gen
+# Eclipse builds
+gen
+out
+# Gradle build artifacts
+.gradle
+.gradletasknamecache
+/build
+/CordovaLib/build
+/app/build
+gradle-app.setting
+# Android Studio
+.idea
+
